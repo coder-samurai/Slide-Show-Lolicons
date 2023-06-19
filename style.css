@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: #262A56;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ImagesContainer {
+    width: 400px;
+    height: 50%;
+    background-color: #B8621B;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.LoliconImage {
+    width: 300px;
+    border-radius: 20px;
+}
